@@ -1,0 +1,8 @@
+
+{
+    "name": "AnuyPHP",
+    "description": "",
+    "require": {
+        "monolog/monolog": "1.0.*"
+    }
+}
